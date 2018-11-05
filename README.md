@@ -1,13 +1,5 @@
-# README
-## This is the README for your extension "cobalt2-italic"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Cobalt2 Italic
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This is a port from Wesbos's Amazing Cobalt2 theme. Original can be found [https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2](here). I added some more italic option to make it look good for fonts like Dank Mono. (Buy [https://dank.sh/](here))
 
 **Enjoy!**
