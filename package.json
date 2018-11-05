@@ -1,9 +1,10 @@
 {
     "name": "cobalt2-italic",
-    "displayName": "cobalt2-italic",
-    "description": "Italic theme for Cobalt2. Better support for Operator Mono",
+    "displayName": "Cobalt2-italic",
+    "description": "Italic theme for Cobalt2. Better support for Dank Mono",
     "version": "0.0.1",
     "publisher": "shobhit01",
+    "repository": "https://github.com/Shobhit1/cobalt2-italic",
     "engines": {
         "vscode": "^1.28.0"
     },
