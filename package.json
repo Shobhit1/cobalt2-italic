@@ -1,0 +1,22 @@
+{
+    "name": "cobalt2-italic",
+    "displayName": "cobalt2-italic",
+    "description": "Italic theme for Cobalt2. Better support for Operator Mono",
+    "version": "0.0.1",
+    "publisher": "shobhit01",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cobalt2 Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cobalt2 Italic-color-theme.json"
+            }
+        ]
+    }
+}
