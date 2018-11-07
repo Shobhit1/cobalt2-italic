@@ -5,7 +5,7 @@
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/shobhit01.cobalt2-italic.svg)](https://marketplace.visualstudio.com/items?itemName=shobhit01.cobalt2-italic)
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/shobhit01.cobalt2-italic.svg)](https://marketplace.visualstudio.com/items?itemName=shobhit01.cobalt2-italic)
 
-Download Theme from: [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=shobhit01.cobalt2-italic)/
+Download Theme from: [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=shobhit01.cobalt2-italic)
 
 This is a port from Wesbos's Amazing Cobalt2 theme. Original can be found [here](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2).
 
